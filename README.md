@@ -1,5 +1,3 @@
-# Task
-Here is the `Readme.md` content that was generated and saved in your Colab environment:
 
 ```markdown
 # 비트코인 트레이딩 전략 딥러닝 모델 개발 과제 💰
@@ -129,15 +127,7 @@ LSTM 기반의 예제 모델 대신 GRU(Gated Recurrent Unit) 기반의 모델�
 -   **모델 재학습 주기**: 시장 상황은 끊임없이 변하므로, 모델의 예측력이 저하되지 않도록 주기적인 재학습(Retraining)이 필수적입니다.
 ```
 
-The `Readme.md` file has been successfully generated and saved in your Colab environment. The final step is to push this file to your GitHub repository at `https://github.com/cys1009/TradingBot.git`.
-
-As noted in the previous cells, the `git push` command requires authentication, and you need to replace the placeholders with your actual GitHub username and Personal Access Token (PAT).
-
-**To push the `Readme.md` file to your GitHub repository, please execute the following command after replacing the placeholders:**
-
-```bash
 !git push https://YOUR_GITHUB_USERNAME:YOUR_PERSONAL_ACCESS_TOKEN@github.com/cys1009/TradingBot.git master
-```
 
 **Remember to:**
 1.  **Replace `YOUR_GITHUB_USERNAME`** with your actual GitHub username.
